@@ -1,2 +1,6 @@
 @import 'colors.css';
 @import 'letras.css';
+
+body{
+   background-color: #eed09d;
+}
